@@ -1,0 +1,26 @@
+Siber Güvenlik Nedir?
+Siber güvenlik, bilgi teknolojisi varlıklarını (veri, ağ, sistem ve cihazlar) kötü niyetli saldırılardan koruma sürecidir. Siber güvenliğin amacı, yetkisiz erişimi önlemek, verilerin gizliliğini sağlamak ve bilgi sistemlerini kesintisiz çalışır halde tutmaktır.
+
+Siber güvenlik, yalnızca büyük şirketler veya devlet kurumları için değil, bireyler için de kritik bir konudur. Kredi kartı bilgilerinin çalınması, sosyal medya hesaplarının ele geçirilmesi veya kişisel fotoğrafların sızdırılması gibi tehditler, günlük yaşamda karşılaşılabilecek siber saldırı örneklerindendir.
+
+Siber Güvenlik Kapsamındaki Alanlar
+Siber güvenlik, farklı alanları kapsayan geniş bir disiplindir:
+
+1. Ağ Güvenliği
+Bilgisayar ağlarını hedefli saldırılara karşı korumak için alınan önlemler.
+
+2. Uygulama Güvenliği
+Yazılım güvenlik açıklarını önlemek ve güvenli kodlama uygulamalarını benimsemek.
+
+3. Bilgi Güvenliği
+Verilerin gizliliğini, bütünlüğünü ve erişilebilirliğini sağlamak.
+
+4. Operasyonel Güvenlik
+Kullanıcı yetkilendirmeleri, erişim kontrolleri ve veri saklama politikaları gibi işlemleri yönetmek.
+
+5. Felaket Kurtarma ve İş Sürekliliği
+Siber saldırılar veya doğal afetler sonrası işleyişin devamlılığını sağlamak.
+
+Kaynaklar
+Kaspersky: What is Cybersecurity?
+IBM: Cybersecurity Explained

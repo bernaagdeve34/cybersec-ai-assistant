@@ -1,0 +1,47 @@
+Temel Siber Güvenlik Terminolojisi
+Siber güvenlik, dijital sistemlerin, ağların, cihazların ve verilerin kötü amaçlı saldırılara karşı korunmasını amaçlayan bir disiplindir. Bu alanda kullanılan bazı temel terimler şunlardır:
+
+Zararlı Yazılım (Malware)
+Kötü niyetli amaçlarla geliştirilen yazılımlardır. Sistemlere zarar vermek, veri çalmak veya sistemi kontrol altına almak için kullanılır.
+
+Virüs: Kendini diğer dosyalara ekleyerek çoğalır.
+Solucan (Worm): Ağ üzerinden yayılır, kullanıcı etkileşimi olmadan çoğalabilir.
+Truva Atı (Trojan Horse): Masum bir yazılım gibi görünür, arka planda zararlı işler yapar.
+Fidye Yazılımı (Ransomware): Verileri şifreler ve çözüm karşılığında fidye ister.
+Kimlik Avı (Phishing)
+Saldırganların, sahte e-postalar veya sahte web siteleri yoluyla kullanıcıları kandırarak hassas bilgileri (şifre, kredi kartı bilgisi, kişisel veriler) ele geçirmesi.
+
+DDoS Saldırısı (Distributed Denial of Service)
+Birden fazla kaynaktan gelen trafik ile bir sistemi meşgul ederek hizmet veremez hâle getiren saldırı türü.
+
+Güvenlik Açığı (Vulnerability)
+Bir sistemdeki, yazılımdaki ya da uygulamadaki zayıf nokta veya hata. Saldırganlar bu açıklardan faydalanarak sisteme yetkisiz erişim sağlayabilir.
+
+Şifreleme (Encryption)
+Verileri korumak için dönüştürme işlemi. Yalnızca yetkili kişiler veriyi çözebilir.
+
+Simetrik şifreleme: Aynı anahtar kullanılır.
+Asimetrik şifreleme: Açık ve özel anahtar kombinasyonu kullanılır.
+Çok Faktörlü Kimlik Doğrulama (MFA)
+Bir sisteme giriş yaparken birden fazla doğrulama katmanı kullanılmasıdır. Örneğin:
+
+Şifre
+Telefona gelen doğrulama kodu
+Parmak izi
+MFA, hesapların güvenliğini ciddi oranda artırır.
+
+Güvenlik Duvarı (Firewall)
+Bir ağdaki trafiği izleyen ve filtreleyen güvenlik sistemidir. Yetkisiz erişimleri engellemek ve yalnızca izin verilen veri trafiğine izin vermek için kullanılır.
+
+Saldırı Tespit ve Önleme Sistemleri (IDS / IPS)
+IDS (Intrusion Detection System): Şüpheli etkinlikleri algılar ve uyarı verir.
+IPS (Intrusion Prevention System): Şüpheli etkinlikleri algılar ve engeller.
+Sıfırıncı Gün Açığı (Zero-Day Vulnerability)
+Henüz üretici firma tarafından bilinmeyen ve dolayısıyla bir yama veya güncelleme ile düzeltilmemiş güvenlik açığıdır. Saldırganlar, bu açığı kamuya açıklanmadan önce kullanabilir.
+
+Sosyal Mühendislik (Social Engineering)
+Teknik saldırılardan ziyade, insan psikolojisinden faydalanarak bilgi elde etmeye dayalı saldırı yöntemidir. Örneğin, güven kazanarak bir kişinin şifresini aldatma yoluyla elde etmek.
+
+Kaynaklar
+Wikipedia: İnternet Güvenliği
+NIST: Cybersecurity Terms

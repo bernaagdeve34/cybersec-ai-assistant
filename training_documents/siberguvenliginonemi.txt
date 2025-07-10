@@ -1,0 +1,13 @@
+Siber Güvenliğin Önemi
+Dijital dünyada siber güvenlik, bireylerin, şirketlerin ve devletlerin korunması açısından kritik öneme sahiptir. Siber saldırılar, yalnızca finansal kayıplara değil, aynı zamanda gizli bilgilerin ifşasına ve sistem kesintilerine de yol açabilir.
+
+Bireyler İçin Siber Güvenlik Neden Önemli?
+Kişisel bilgilerin korunması: Kimlik hırsızlığı ve dolandırıcılığı önlemek için güçlü şifreler ve iki faktörlü kimlik doğrulama kullanılmalıdır.
+Cihaz güvenliği: Bilgisayarlar ve akıllı telefonlar kötü amaçlı yazılımlara karşı korunmalı, güvenilir antivirüs yazılımları kullanılmalıdır.
+Dijital kimlik korunması: Sosyal medya hesaplarının ele geçirilmesi yaygın bir siber suçtur.
+Şirketler İçin Siber Güvenliğin Önemi
+Müşteri güvenliği: Şirketlerin müşteri verilerini güvence altına alması gerekir.
+Fidye yazılımı saldırıları: Hackerlar, kurumsal verileri şifreleyerek şirketlerden fidye talep edebilir.
+Yasal yükümlülükler: KVKK ve GDPR gibi veri gizliliği yasalarına uyum sağlanmalıdır.
+Kaynaklar
+IBM: Importance of Cybersecurity
